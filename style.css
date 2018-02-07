@@ -1,0 +1,19 @@
+body {
+	background:cyan;
+}
+table, th, td {
+border: 1px solid black;
+}
+ol{
+	color:white;
+}
+ul {
+	background:blue;
+
+}
+#company_info {
+	background:red;
+}
+.our_website {
+	background:white;
+}
